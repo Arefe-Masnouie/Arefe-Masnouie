@@ -35,5 +35,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefe-Masnouie&show_icons=true&theme=dracula) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arefe-Masnouie&theme=cobalt&hide_border=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefe-Masnouie&show_icons=true&theme=dracula) 
+<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arefe-Masnouie&theme=dracula&hide_border=false)
